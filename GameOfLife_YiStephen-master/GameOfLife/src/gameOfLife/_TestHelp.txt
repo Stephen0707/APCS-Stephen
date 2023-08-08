@@ -1,0 +1,21 @@
+The tests contain illustrations of the world's evolution, like:
+
+  .    .    .  
+  .    1W   1W 
+  .    .    1W 
+  
+ In those illustrations:
+.		Represents a dormant tile
+AC		Represents an active tile, where
+  		A is the age of the tile, and
+  		C is the color of the tile, with the following abbreviations:
+  		    B = Color.BLUE
+  		    D = Color.DARK_GRAY
+  		    G = Color.GREEN
+  		    L = Color.LIGHT_GRAY
+  		    M = Color.MAGENTA
+  		    O = Color.ORANGE
+  		    R = Color.RED
+  		    W = Color.WHITE
+  		    Y = Color.YELLOW
+  		    (black is shown as an empty space)
